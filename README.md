@@ -16,16 +16,16 @@ Earning this certification signifies not only the completion of a rigorous acade
 Key Topics Covered in this course:
 
 1-Introduction to machine learning and its applications    
-2-Linear regression cost function , and gradient descent
-3-Model representation by using Python
-4-Python ,Numpy , and vectorization
-5-Feature scaling & feature engineering ,and polynomial regression
-6-Classification : Sigmoid function and Logistic regression
-7-Decision boundary
-8-Logistic loss and gradient decsent 
-9-regularized linear regression
-10-regularized logistic regression
-Bias-variance tradeoff and model evaluation
+2-Linear regression cost function , and gradient descent    
+3-Model representation by using Python    
+4-Python ,Numpy , and Vectorization    
+5-Feature scaling & feature engineering ,and polynomial regression   
+6-Classification : Sigmoid function and Logistic regression    
+7-Decision boundary   
+8-Logistic loss and gradient decsent     
+9-Regularized linear regression   
+10-Regularized logistic regression   
+Bias-variance tradeoff and model evaluation   
 
 Connect with Me:
 If you have any questions about my experience with the course or would like to connect on topics related to machine learning and artificial intelligence, feel free to reach out to me via email or connect with me on LinkedIn.
