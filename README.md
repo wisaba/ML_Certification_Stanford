@@ -15,7 +15,7 @@ Earning this certification signifies not only the completion of a rigorous acade
 
 Key Topics Covered in this course:
 
-1-Introduction to machine learning and its applications
+1-Introduction to machine learning and its applications /n
 2-Linear regression cost function , and gradient descent
 3-Model representation by using Python
 4-Python ,Numpy , and vectorization
